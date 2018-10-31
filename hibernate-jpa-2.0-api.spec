@@ -4,7 +4,7 @@
 
 Name:             hibernate-jpa-2.0-api
 Version:          1.0.1
-Release:          15.2
+Release:          15.3
 Summary:          Java Persistence 2.0 (JSR 317) API
 Group:		  Development/Java
 
