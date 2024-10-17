@@ -9,7 +9,7 @@ Summary:          Java Persistence 2.0 (JSR 317) API
 Group:		  Development/Java
 
 License:          EPL and BSD
-URL:              http://www.hibernate.org/
+URL:              https://www.hibernate.org/
 
 # svn export http://anonsvn.jboss.org/repos/hibernate/jpa-api/tags/hibernate-jpa-2.0-api-1.0.1.Final/ hibernate-jpa-2.0-api-1.0.1.Final
 # tar -zcvf hibernate-jpa-2.0-api-1.0.1.Final.tar.gz hibernate-jpa-2.0-api-1.0.1.Final
